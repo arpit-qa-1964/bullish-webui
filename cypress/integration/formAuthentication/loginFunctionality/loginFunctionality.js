@@ -2,6 +2,7 @@ import { Given, When, And, Then } from "cypress-cucumber-preprocessor/steps";
 import FormAuthenticationPage from "@Pages/formAuthenticationPage/FormAuthenticationPage";
 import * as validationMessage from "@Validation/validationMessage";
 
+// Step Definition Code
 Given(`I click on Login button`, () => {
   FormAuthenticationPage.clickOnLoginButton()
 });

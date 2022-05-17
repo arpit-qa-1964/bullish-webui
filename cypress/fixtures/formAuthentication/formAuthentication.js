@@ -1,3 +1,4 @@
+// test data
 export const userCredentials = {
   correctUsername: 'tomsmith',
   correctPassword: 'SuperSecretPassword!',

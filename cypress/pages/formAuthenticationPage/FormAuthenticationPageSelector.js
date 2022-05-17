@@ -1,4 +1,4 @@
-/* General Information */
+/* CSS Selector Queries */
 export const LOGIN_BUTTON = 'i.fa-sign-in';
 export const VALIDATION_MESSAGE_FIELD = 'div[id="flash"]';
 export const USERNAME_INPUT = 'input[id="username"]';

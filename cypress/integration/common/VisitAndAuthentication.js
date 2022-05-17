@@ -1,5 +1,6 @@
 import { Given, Then } from "cypress-cucumber-preprocessor/steps";
 
+// Navigation to the Login Page Steps
 Given(`I am on Herokuapp website`, () => {
   cy.visit('/');
   cy.validateURL('herokuapp')

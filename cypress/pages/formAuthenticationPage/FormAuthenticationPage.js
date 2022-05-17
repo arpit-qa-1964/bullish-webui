@@ -1,6 +1,8 @@
 import * as FormAuthenticationPageSelector from "@FormAuthenticationSelector/FormAuthenticationPageSelector";
 import * as loginData from "@Fixtures/formAuthentication/formAuthentication";
 
+// Page Implementations
+
 class FormAuthenticationPage {
 
   static clickOnLoginButton() {
