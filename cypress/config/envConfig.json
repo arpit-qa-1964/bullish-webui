@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://the-internet.herokuapp.com/",
+  "env": {
+    "loadingTime": 10000,
+    "debounceTime": 1000
+  }
+}

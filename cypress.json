@@ -1,0 +1,10 @@
+{
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "cypress/results/results-[hash].xml",
+    "toConsole": true
+    },
+    "testFiles": ["**/*.{feature,features}"],
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+  }
