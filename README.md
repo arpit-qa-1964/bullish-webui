@@ -73,7 +73,7 @@ Bullish Frontend Test Source Code
 git clone https://github.com/arpit-qa-1964/bullish-webui.git
 
 (ii) CD into the cloned repo
-cd bullish-framework
+cd bullish-webui
 
 (iii) Install the node_modules
 npm install
